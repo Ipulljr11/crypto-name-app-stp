@@ -1,0 +1,20 @@
+{
+  "name": "crypto-name-app-stp",
+  "version": "1.0.0",
+  "description": "A module that uses crypto-name-generator to generate unique names related to cryptocurrency.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ipulljr11/crypto-name-app-stp.git"
+  },
+  "keywords": [
+    "crypto",
+    "generator",
+    "application"
+  ],
+  "author": "Ipulljr11",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-name-generator-stp": "^1.0.1"
+  }
+}
